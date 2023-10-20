@@ -14,7 +14,7 @@
 - 💬 Ask me about **React,JavaScript**
 
 - 📫 How to reach me **noyonswe206@gmail.com**
-- 
+  
 - 🥅 2024 Goals: MERN stack developer
 
 - ⚡ Fun fact: **I think someday JavaScript will save the world!**
