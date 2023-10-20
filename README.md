@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asnoyon&label=Profile%20views&color=0e75b6&style=flat" alt="asnoyon" /> </p>
 
+## Fast learner & go-getter. JavaScript & Design Pattern Enthusiast. A friend! 🙌
+
 - 🌱 I’m currently learning **TypeScript,Next.js**
 
 - 👨‍💻 All of my projects are available at [https://react-portfolio-three-brown.vercel.app/](https://react-portfolio-three-brown.vercel.app/)
@@ -12,10 +14,15 @@
 - 💬 Ask me about **React,JavaScript**
 
 - 📫 How to reach me **noyonswe206@gmail.com**
+- 
+- 🥅 2024 Goals: MERN stack developer
+
+- ⚡ Fun fact: **I think someday JavaScript will save the world!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/ig_noyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig_noyon" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ashadujjaman-noyon-614497286/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ig_noyon" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
