@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/105487086/179811633-19c51eb8-eea0-4bc3-863e-ab833a1dff6f.png)](https://react-portfolio-three-brown.vercel.app/)
 <h1 align="center">Hi 👋, I'm Ashadujjaman Noyon</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif"/>
+<img align="right" alt="Coding" width="400" src="./logo.png"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asnoyon&label=Profile%20views&color=0e75b6&style=flat" alt="asnoyon" /> </p>
 
