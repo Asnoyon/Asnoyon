@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/105487086/179811633-19c51eb8-eea0-4bc3-863e-ab833a1dff6f.png)](https://react-portfolio-three-brown.vercel.app/)
+<a href="https://react-portfolio-three-brown.vercel.app/" target="_blank"><img align="center" src="./AsNoyon.png" alt="Noyon" /></a>
 <h1 align="center">Hi 👋, I'm Ashadujjaman Noyon</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="./logo.png"/>
