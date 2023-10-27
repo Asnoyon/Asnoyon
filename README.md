@@ -7,7 +7,7 @@
 
 ## Fast learner & go-getter. JavaScript & Design Pattern Enthusiast. A friend! 🙌
 
-- 🌱 I’m currently learning **TypeScript,Next.js**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://react-portfolio-three-brown.vercel.app/](https://react-portfolio-three-brown.vercel.app/)
 
