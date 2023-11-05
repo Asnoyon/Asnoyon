@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asnoyon&label=Profile%20views&color=0e75b6&style=flat" alt="asnoyon" /></p>
 
-## Fast learner & go-getter. JavaScript & Design Pattern Enthusiast. A friend! 🙌
+## Fast learner & go-getter. JavaScript & Design Pattern Enthusiast. 🙌
 
 - 🌱 I’m currently learning **TypeScript**
 
