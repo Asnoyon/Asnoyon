@@ -1,5 +1,5 @@
 <a href="https://react-portfolio-three-brown.vercel.app/" target="_blank"><img align="center" src="./NoyonBanner1.png" alt="Noyon" /></a>
-<h1 align="center">Hi 👋, I'm Ashadujjaman Noyon</h1>
+<h1 align="center">Hi , I'm Ashadujjaman Noyon</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="./logo3.jpg"/>
 
